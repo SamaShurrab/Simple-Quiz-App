@@ -47,15 +47,15 @@ It includes two quiz types: **Multiple Choice** and **True/False** with clean UI
 ### 1) Screen 1 & Screen 2
 | Screen 1 | Screen 2 |
 | --- | --- |
-| ![Screen 1](assets/images/screen1.png) | ![Screen 2](assets/images/screen2.png) |
+| ![Screen 1](assets/images/Screen1.png) | ![Screen 2](assets/images/Screen2.png) |
 
 ### 2) Screen 3 & Screen 4
 | Screen 3 | Screen 4 |
 | --- | --- |
-| ![Screen 3](assets/images/screen3.png) | ![Screen 4](assets/images/screen4.png) |
+| ![Screen 3](assets/images/Screen3.png) | ![Screen 4](assets/images/Screen4.png) |
 
 ### 3) Screen 5
-![Screen 5](assets/images/screen5.png)
+![Screen 5](assets/images/Screen5.png)
 
 ---
 
