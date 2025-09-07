@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:session19/logic/true_false_brain.dart';
-import 'package:session19/multiple_quiz.dart';
+import 'package:simple_quiz_app/logic/true_false_brain.dart';
+import 'package:simple_quiz_app/multiple_quiz.dart';
 
 class TrueFalseQuiz extends StatefulWidget {
   const TrueFalseQuiz({super.key});

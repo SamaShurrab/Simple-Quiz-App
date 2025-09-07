@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
-import 'package:session19/logic/multiple_question_brain.dart';
-import 'package:session19/true_false_quiz.dart';
+import 'package:simple_quiz_app/logic/multiple_question_brain.dart';
+import 'package:simple_quiz_app/true_false_quiz.dart';
 
 class MultipleQuiz extends StatefulWidget {
   final List<Icon> scoreKeeper;

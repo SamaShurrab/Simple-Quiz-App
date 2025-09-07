@@ -1,4 +1,4 @@
-import 'package:session19/logic/multiple_qusetion.dart';
+import 'package:simple_quiz_app/logic/multiple_qusetion.dart';
 
 class MultipleQuestionBrain {
   int questionNumber = 0;

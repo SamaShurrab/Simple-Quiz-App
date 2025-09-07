@@ -1,4 +1,4 @@
-import 'package:session19/logic/question.dart';
+import 'package:simple_quiz_app/logic/question.dart';
 
 class TrueFalseBrain {
   int questionNumber = 0;

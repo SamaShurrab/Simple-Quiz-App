@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:session19/true_false_quiz.dart';
+import 'package:simple_quiz_app/true_false_quiz.dart';
 
 void main() {
   runApp(const MyApp());
